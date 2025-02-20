@@ -1,0 +1,10 @@
+Errors - 
+
+Bad1.java: 
+Class name doesn't match filename.
+
+Bad2.java:
+Divide by zero error.
+
+Bad3.java:
+Incorrect quotes leading to type errors.
